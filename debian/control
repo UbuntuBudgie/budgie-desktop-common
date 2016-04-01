@@ -1,0 +1,15 @@
+Source: budgie-desktop-common
+Section: misc
+Priority: optional
+Maintainer: fossfreedom <foss.freedom@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/budgie-remix
+Vcs-Browser: https://github.com/budgie-remix/budgie-desktop-common
+
+Package: budgie-desktop-common
+Architecture: all
+Section: misc
+Depends: ${misc:Depends}
+Description: Common budgie desktop components
+ budgie-desktop common components
