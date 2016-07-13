@@ -1,3 +1,9 @@
+budgie-desktop-common (0.2-0ubuntu1) xenial; urgency=medium
+
+  * add vendor override for panel.ini
+
+ -- David Mohammed <fossfreedom@gmail.com>  Wed, 13 Jul 2016 21:47:00 +0100
+
 budgie-desktop-common (0.1-1) xenial; urgency=medium
 
   * Initial release (#00001).
